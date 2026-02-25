@@ -31,10 +31,13 @@ const Footer = () => {
           <div id="contact">
             <h4 className="font-heading text-xs tracking-[0.2em] uppercase text-primary mb-4">Visit Us</h4>
             <div className="space-y-2 font-body text-sm text-muted-foreground">
-              <p>123 Tibetan Market Road</p>
-              <p>New Delhi, India 110001</p>
-              <p className="mt-4">+91 98765 43210</p>
-              <p>hello@Yeti the monk.com</p>
+              <p>Head Office : 
+              Plot No. -1828/2012, NEAR INDUSIND BANK, BANEIKALA
+              MARKET, PO/PS-JODA, DIST-KEONJHAR, ODISHA-758034</p>
+              <p>City Office : 
+              Plot no: 386, Nuasahi, Nayapalli, Bhubaneswar, Odisha - 751012</p>
+              <p className="mt-4">+91-9556632888</p>
+              <p>yetithemonk.co.in</p>
             </div>
           </div>
         </div>
