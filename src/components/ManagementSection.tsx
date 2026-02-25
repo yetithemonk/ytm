@@ -11,7 +11,6 @@ const team = [
     role: "Founder and MD",
     desc: "The driving force behind the brand, passionately building and scaling it across Pan India with vision & determination.",
     image: owner,
-    linkedin: "https://linkedin.com/in/",
     instagram: "https://www.instagram.com/foodncate?igsh=MXVzd200eXd3OTkzdQ%3D%3D&utm_source=qr",
   },
   {
@@ -19,7 +18,6 @@ const team = [
     role: "Co-Founder",
     desc: "The visionary leader shaping the brand's mission, turning ideas into meaningful impact and lasting growth.",
     image: coowner,
-    linkedin: "https://linkedin.com/in/",
     instagram: "https://www.instagram.com/subhasmita_nayak96?igsh=dDF1bng1cWE2NjB3",
   },
   {
@@ -27,7 +25,6 @@ const team = [
     role: "Operations Head",
     desc: "The backbone of daily operations, ensuring seamless execution and delivering the experience that keeps you smiling.",
     image: ops,
-    linkedin: "https://linkedin.com/in/",
     instagram: "https://www.instagram.com/omm._______?igsh=dG5ieG5qcXc0bmN0",
   },
     {
@@ -35,7 +32,6 @@ const team = [
     role: "Chief Finance",
     desc: "A CA Finalist with hands-on expertise, steering the brand toward financial strength and scalable growth.",
     image: fin,
-    linkedin: "https://linkedin.com/in/",
     instagram: "https://www.instagram.com/debasmita_nayak_13?igsh=MTJqdTgyZWNoM3k4Yg==",
   },
   {
@@ -43,7 +39,6 @@ const team = [
     role: "Chief Marketing",
     desc: "The creative heartbeat of the brand, transforming passion into powerful stories you see and connect with.",
     image: marketing,
-    linkedin: "https://linkedin.com/in/",
     instagram: "https://www.instagram.com/ankita_das_03j?igsh=MXd2MTI0dXc5OG92NA==",
   },
 
@@ -166,29 +161,6 @@ const ManagementSection = () => {
 
                       {/* Social media buttons */}
                       <div className="flex gap-4">
-                        <a
-                          href={member.linkedin}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="w-9 h-9 rounded-full border border-[#c9a227]/40 flex items-center justify-center text-[#c9a227]/70 hover:bg-[#c9a227] hover:text-[#1a0505] hover:border-[#c9a227] transition-all duration-300"
-                          title="LinkedIn"
-                        >
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="16"
-                            height="16"
-                            viewBox="0 0 24 24"
-                            fill="none"
-                            stroke="currentColor"
-                            strokeWidth="1.5"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                          >
-                            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-                            <rect x="2" y="9" width="4" height="12"></rect>
-                            <circle cx="4" cy="4" r="2"></circle>
-                          </svg>
-                        </a>
                         <a
                           href={member.instagram}
                           target="_blank"

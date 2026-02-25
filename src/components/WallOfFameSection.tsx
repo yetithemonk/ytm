@@ -18,6 +18,7 @@ import w13 from "@/assets/w13.jpeg";
 import w14 from "@/assets/w14.jpeg";
 import w15 from "@/assets/w15.jpeg";
 import basu from "@/assets/spot4.jpeg";
+import cmg from "@/assets/cmg.jpg";
 import {
   Carousel,
   CarouselContent,
@@ -74,11 +75,11 @@ const WallOfFameSection = () => {
 
   // Winner data
   const winnerData = {
-    image: basu,
-    name: "Basudev Vlogs ",
-    title: "Food Critic",
-    achievement: "Best Momo in Town 2024",
-    description: "Awarded for exceptional review and promoting authentic Tibetan cuisine to thousands of food enthusiasts.",
+    image: cmg,
+    name: "To be announced soon",
+    title: "To be announced soon",
+    achievement: "To be announced soon",
+    description: "To be announced soon",
   };
 
   return (
