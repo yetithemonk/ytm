@@ -15,13 +15,22 @@ const Footer = () => {
           <div>
             <h4 className="font-heading text-xs tracking-[0.2em] uppercase text-primary mb-4">Quick Links</h4>
             <div className="flex flex-col gap-2">
-              {["Home", "Vision", "Menu", "Star Dishes", "Testimonials", "Team", "Contact Us", "Franchise"].map((link) => (
+              {[
+                { label: "Home", href: "#home" },
+                { label: "Vision", href: "#vision" },
+                { label: "Menu", href: "#menu" },
+                { label: "Testimonials", href: "#testimonials" },
+                { label: "Team", href: "#management" },
+                { label: "Why Us", href: "#franchise" },
+                { label: "Franchisees", href: "#our-franchisees" },
+                { label: "Contact Us", href: "#start-your-journey" },
+              ].map((link) => (
                 <a
-                  key={link}
-                  href={`#${link.toLowerCase().replace(" ", "-")}`}
+                  key={link.label}
+                  href={link.href}
                   className="font-body text-sm text-muted-foreground hover:text-primary transition-colors"
                 >
-                  {link}
+                  {link.label}
                 </a>
               ))}
             </div>
