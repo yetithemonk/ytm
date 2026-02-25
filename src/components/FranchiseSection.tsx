@@ -221,7 +221,7 @@ const FranchiseSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.3 }}
           >
-            Join a thriving business with unparalleled support, proven success, and exceptional growth potential
+            Join our thriving business with unparalleled support, proven success, and exceptional growth potential
           </motion.p>
         </div>
 
