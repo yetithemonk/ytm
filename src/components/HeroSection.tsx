@@ -73,7 +73,7 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 1.5 }}
           className="font-heading text-xs tracking-[0.2em] uppercase text-foreground mb-6"
         >
-          We Serve Pan India
+          We are serving Pan India
         </motion.p>
 
         
