@@ -43,7 +43,7 @@ const galleryImages = [
     year: "2024",
   },
   {
-    image: spot2,
+    image: spot6,
     title: "Celebrating a year full of hustle",
     subtitle: "& memories with the team",
     year: "2024",

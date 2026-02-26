@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, Star } from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
-import chefImg from "@/assets/chef.png";
+import chefImg from "@/assets/w8.jpeg";
 import swiggy from "@/assets/swig.png";
 import zomato from "@/assets/zom.png";
 
