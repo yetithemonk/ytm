@@ -14,7 +14,7 @@ const benefits = [
   {
     icon: TrendingUp,
     title: "Best ROI",
-    desc: "High profit margins with proven business model ensuring maximum returns on your investment within 18-24 months.",
+    desc: "High profit margins with proven business model ensuring maximum returns on your investment within 12-15 months.",
   },
   {
     icon: Users,
