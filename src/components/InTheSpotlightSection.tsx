@@ -71,7 +71,7 @@ const InTheSpotlightSection = () => {
               </span>
             </div>
             <h2 className="font-display text-4xl md:text-6xl lg:text-7xl text-foreground mb-6">
-              In The <span className="text-primary">Spotlight</span>
+              The <span className="text-primary">Spotlight</span>
             </h2>
             <div className="flex items-center justify-center gap-4 mb-6">
               <div className="h-px w-16 bg-gradient-to-r from-transparent to-primary/50" />
