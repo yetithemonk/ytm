@@ -7,7 +7,7 @@ const navLinks = [
   { label: "Vision", href: "#vision" },
   { label: "Menu", href: "#menu" },
   { label: "Testimonials", href: "#testimonials" },
-  { label: "Our Team", href: "#management" },
+  { label: "Team", href: "#management" },
   { label: "Why Us", href: "#franchise" },
   { label: "Franchisees", href: "#our-franchisees" },
   { label: "Contact Us", href: "#start-your-journey" },
