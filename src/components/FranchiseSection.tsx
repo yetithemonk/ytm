@@ -99,14 +99,14 @@ const franchiseOwners = [
     image: unit8,
     instagram: "https://www.instagram.com/ommdibya?igsh=Z29lYngxNWpicXN5",
   },
-<!--{
+{
     name: "Patia",
     owner: "Mr. Sagar Sahoo",
     role: "Yeti The Monk",
     desc: "Partnered since 2025, strategically located amidst the vibrant student hub of Bhubaneswar.",
     image: patia,
     instagram: "https://www.instagram.com/chikusagarsahoo?igsh=MTZyejlpNHJxZ2NocQ==",
-  }-->,
+  },
 {
     name: "Niladrivihar",
     owner: "Mr. Swaraj & Pooja",
@@ -124,6 +124,7 @@ const franchiseOwners = [
     image: keon,
     instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
   },
+  { name: "Cuttack", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
