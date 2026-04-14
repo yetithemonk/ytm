@@ -100,14 +100,6 @@ const franchiseOwners = [
     instagram: "https://www.instagram.com/ommdibya?igsh=Z29lYngxNWpicXN5",
   },
 {
-    name: "Patia",
-    owner: "Mr. Sagar Sahoo",
-    role: "Yeti The Monk",
-    desc: "Partnered since 2025, strategically located amidst the vibrant student hub of Bhubaneswar.",
-    image: patia,
-    instagram: "https://www.instagram.com/chikusagarsahoo?igsh=MTZyejlpNHJxZ2NocQ==",
-  },
-{
     name: "Niladrivihar",
     owner: "Mr. Swaraj & Pooja",
     role: "Yeti The Monk on Wheels",
