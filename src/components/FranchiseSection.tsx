@@ -110,11 +110,11 @@ const franchiseOwners = [
 
   {
     name: "Patia",
-    owner: "Mr.Swadesh",
+    owner: "Mr. Swadesh",
     role: "Yeti The Monk",
     desc: "Our second franchise outlet, proudly serving in the heart of Bhubaneswar.",
     image: Patia,
-    
+    instagram: "https://www.instagram.com/yeti_the_monk.bbsr",
   },
   
   {
@@ -125,7 +125,7 @@ const franchiseOwners = [
     image: keon,
     instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
   },
-  { name: "Cuttack", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
+  
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
