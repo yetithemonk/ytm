@@ -108,7 +108,14 @@ const franchiseOwners = [
     instagram: "https://www.instagram.com/swarajdas143?igsh=Mmwzbms4eG9yM253",
   },
 
-
+  {
+    name: "Patia",
+    owner: "Mr. Swadesh",
+    role: "Yeti The Monk",
+    desc: "Our second franchise outlet, proudly serving in the heart of Bhubaneswar.",
+    image: Patia,
+    instagram: "https://www.instagram.com/yeti_the_monk.bbsr",
+  },
   
   {
     name: "Keonjhar",
