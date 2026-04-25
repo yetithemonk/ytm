@@ -113,7 +113,7 @@ const franchiseOwners = [
     owner: "Mr. Swadesh",
     role: "Yeti The Monk",
     desc: "Our second franchise outlet, proudly serving in the heart of Bhubaneswar.",
-    image: Patia,
+    image: Patia2,
     instagram: "https://www.instagram.com/yeti_the_monk.bbsr",
   },
   
