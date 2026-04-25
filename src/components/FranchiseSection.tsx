@@ -107,16 +107,7 @@ const franchiseOwners = [
     image: nila,
     instagram: "https://www.instagram.com/swarajdas143?igsh=Mmwzbms4eG9yM253",
   },
-
-  {
-    name: "Patia",
-    owner: "Mr. Swadesh",
-    role: "Yeti The Monk",
-    desc: "Our second franchise outlet, proudly serving in the heart of Bhubaneswar.",
-    image: patia,
-    instagram: "https://www.instagram.com/yeti_the_monk.bbsr",
-  },
-  
+ 
   {
     name: "Keonjhar",
     owner: "Mr. Debraj Saha",
@@ -125,7 +116,7 @@ const franchiseOwners = [
     image: keon,
     instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
   },
-  
+  { name: "Cuttack", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
