@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 import AnimatedSection from "./AnimatedSection";
 import chefTenzin from "@/assets/chef-tenzin.jpg";
-import patia from "@/assets/patiaowner.jpeg";
+import patia from "@/assets/Patia2.jpeg";
 import unit8 from "@/assets/unit8.jpeg";
 import keon from "@/assets/Keonjhar.jpeg";
 import nila from "@/assets/nila.jpeg";
@@ -106,6 +106,15 @@ const franchiseOwners = [
     desc: "Partnered since 2026, home to our first-of-its-kind Tibetan food truck — bringing your favorites faster, fresh, and on wheels.",
     image: nila,
     instagram: "https://www.instagram.com/swarajdas143?igsh=Mmwzbms4eG9yM253",
+  },
+
+  {
+    name: "Patia",
+    owner: "Mr.Swadesh",
+    role: "Yeti The Monk",
+    desc: "Our second franchise outlet, proudly serving in the heart of Bhubaneswar.",
+    image: Patia,
+    
   },
   
   {
