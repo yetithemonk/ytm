@@ -49,6 +49,7 @@ const stats = [
   { number: "5+", label: "Franchises" },
   { number: "95%", label: "Success Rate" },
   { number: "24/7", label: "Support" },
+  { number: "150+", label: "Franchise Contacted" },
 ];
 
 // Celebrity/Influencer testimonials
