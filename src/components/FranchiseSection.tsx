@@ -128,7 +128,7 @@ const franchiseOwners = [
     instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
   },
 
-    {
+  {
     name: "Tankapani, Bhubaneswar",
     owner: "Mr. Abisranta Pradhan",
     role: "Yeti The Monk on Wheels",
