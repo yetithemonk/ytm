@@ -49,7 +49,7 @@ const stats = [
   { number: "5+", label: "Franchises" },
   { number: "95%", label: "Success Rate" },
   { number: "24/7", label: "Support" },
-  { number: "150+", label: "Franchise Contacted" },
+  { number: "150+", label: "Franchise Call" },
 ];
 
 // Celebrity/Influencer testimonials
@@ -129,10 +129,10 @@ const franchiseOwners = [
   },
 
   {
-    name: "Tankapani, Bhubaneswar",
+    name: "Tankapani, Bbsr",
     owner: "Mr. Abisranta Pradhan",
-    role: "Yeti The Monk on Wheels",
-    desc: "From Bhubaneswar to new horizons, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, spreading the warmth and flavours of the Himalayas to yet another community.",
+    role: "Yeti The Monk",
+    desc: "From Bhubaneswar to new horizons, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, a flavours of the Himalayas to yet another community.",
     image: tanka,
     instagram: "https://www.instagram.com/_man0j_kum0r",
   },
