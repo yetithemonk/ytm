@@ -94,7 +94,7 @@ const testimonials = [
 
 const franchiseOwners = [
   {
-    name: "Unit - 8 ",
+    name: "Unit 8, BBSR ",
     owner: "Omm & Sneha",
     role: "Yeti The Monk",
     desc: "Our first and only directly operated franchise outlet, proudly serving in the heart of Bhubaneswar.",
@@ -102,7 +102,7 @@ const franchiseOwners = [
     instagram: "https://www.instagram.com/ommdibya?igsh=Z29lYngxNWpicXN5",
   },
 {
-    name: "Niladrivihar",
+    name: "Niladrivihar, BBSR",
     owner: "Mr. Swaraj & Pooja",
     role: "Yeti The Monk on Wheels",
     desc: "Partnered since 2026, home to our first-of-its-kind Tibetan food truck — bringing your favorites faster, fresh, and on wheels.",
@@ -111,25 +111,16 @@ const franchiseOwners = [
   },
 
   {
-    name: "Patia",
+    name: "Patia, BBSR",
     owner: "Mr. Swadesh",
     role: "Yeti The Monk",
     desc: "Our second franchise outlet bringing your favorites food faster and fresh, proudly serving in the heart of Bhubaneswar.",
     image: patia,
     instagram: "https://www.instagram.com/yeti_the_monk.bbsr",
   },
-  
-  {
-    name: "Keonjhar",
-    owner: "Mr. Debraj Saha",
-    role: "Yeti The Monk on Wheels",
-    desc: "Our first franchise beyond the capital city and the first-ever Tibetan food truck in Keonjhar, serving authentic flavors at the heart of the town.",
-    image: keon,
-    instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
-  },
 
   {
-    name: "Tankapani, Bbsr",
+    name: "Tankapani, BBSR",
     owner: "Mr. Abisranta Pradhan",
     role: "Yeti The Monk",
     desc: "From Bhubaneswar to new horizons, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, a flavours of the Himalayas to yet another community.",
@@ -137,6 +128,17 @@ const franchiseOwners = [
     instagram: "https://www.instagram.com/_man0j_kum0r",
   },
   
+  
+  {
+    name: "Mining Road, Keonjhar",
+    owner: "Mr. Debraj Saha",
+    role: "Yeti The Monk on Wheels",
+    desc: "Our first franchise beyond the capital city and the first-ever Tibetan food truck in Keonjhar, serving authentic flavors at the heart of the town.",
+    image: keon,
+    instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
+  },
+
+ 
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
