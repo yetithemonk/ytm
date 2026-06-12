@@ -7,6 +7,7 @@ import patia from "@/assets/Patianewowner.png";
 import unit8 from "@/assets/unit8.jpeg";
 import keon from "@/assets/Keonjhar.jpeg";
 import nila from "@/assets/nila.jpeg";
+import tanka from "@/assets/tankapani.png";
 import soon from "@/assets/soon.png";
 import { TrendingUp, Users, Store, Award, Shield, Clock, Quote, Instagram, Twitter, Youtube, Loader2 } from "lucide-react";
 
@@ -125,6 +126,16 @@ const franchiseOwners = [
     image: keon,
     instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
   },
+
+    {
+    name: "Tankapani, Bhubaneswar",
+    owner: "Mr. Abisranta Pradhan",
+    role: "Yeti The Monk on Wheels",
+    desc: "From Bhubaneswar to new horizons, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, spreading the warmth and flavours of the Himalayas to yet another community.",
+    image: tanka,
+    instagram: "https://www.instagram.com/_man0j_kum0r",
+  },
+  
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
