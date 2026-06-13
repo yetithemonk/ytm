@@ -49,7 +49,6 @@ const stats = [
   { number: "5+", label: "Franchises" },
   { number: "95%", label: "Success Rate" },
   { number: "24/7", label: "Support" },
-  { number: "150+", label: "Franchise Call" },
 ];
 
 // Celebrity/Influencer testimonials
@@ -139,7 +138,7 @@ const franchiseOwners = [
   },
 
  
-  { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
+  { name: "Cuttack", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
 
