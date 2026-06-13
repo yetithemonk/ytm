@@ -7,8 +7,8 @@ import patia from "@/assets/Patianewowner.png";
 import unit8 from "@/assets/unit8.jpeg";
 import keon from "@/assets/Keonjhar.jpeg";
 import nila from "@/assets/nila.jpeg";
+import sambal from "@/assets/Sambalpur.png";
 import tanka from "@/assets/tankapani.jpeg";
-import sambal from "@/assets/Sambalpur.png';
 import soon from "@/assets/soon.png";
 import { TrendingUp, Users, Store, Award, Shield, Clock, Quote, Instagram, Twitter, Youtube, Loader2 } from "lucide-react";
 
