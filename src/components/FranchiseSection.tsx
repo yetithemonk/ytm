@@ -46,8 +46,8 @@ const benefits = [
 ];
 
 const stats = [
-  { number: "12-15", label: "Months ROI" },
-  { number: "5+", label: "Franchises" },
+  { number: "08-12", label: "Months ROI" },
+  { number: "7+", label: "Franchises" },
   { number: "95%", label: "Success Rate" },
   { number: "24/7", label: "Support" },
 ];
