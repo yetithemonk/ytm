@@ -131,7 +131,7 @@ const franchiseOwners = [
 
   {
     name: "Barabati Food Court, CTC",
-    owner: "Mr. Abisranta Pradhan",
+    owner: "Mrs. Sofia Khatoon",
     role: "Yeti The Monk",
     desc: "Expanding beyond Bhubaneswar, now in Barabati Food Court, Cuttack. Serving authentic Tibetan flavours and the true taste of the Himalayas.",
     image: barabati,
