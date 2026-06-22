@@ -9,6 +9,7 @@ import keon from "@/assets/Keonjhar.jpeg";
 import nila from "@/assets/nila.jpeg";
 import sambal from "@/assets/Sambalpur.png";
 import tanka from "@/assets/tankapani.jpeg";
+import barabati from "@/assets/cuttack.png";
 import soon from "@/assets/soon.png";
 import { TrendingUp, Users, Store, Award, Shield, Clock, Quote, Instagram, Twitter, Youtube, Loader2 } from "lucide-react";
 
@@ -126,6 +127,15 @@ const franchiseOwners = [
     desc: "From Bhubaneswar to new horizons, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, a flavours of the Himalayas to yet another community.",
     image: tanka,
     instagram: "https://www.instagram.com/_man0j_kum0r",
+  },
+
+  {
+    name: "Barabati Food Court, CTC",
+    owner: "Mr. Abisranta Pradhan",
+    role: "Yeti The Monk",
+    desc: "Expanding beyond Bhubaneswar, now in Barabati Food Court, Cuttack. Serving authentic Tibetan flavours and the true taste of the Himalayas.",
+    image: barabati,
+    instagram: "https://www.instagram.com/_abu.exe",
   },
   
   {
