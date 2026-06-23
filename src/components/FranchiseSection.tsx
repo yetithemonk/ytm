@@ -158,7 +158,7 @@ const franchiseOwners = [
   },
 
  
-  { name: "Cuttack", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
+  { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
 ];
 
