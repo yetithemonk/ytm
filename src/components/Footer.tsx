@@ -55,7 +55,7 @@ const Footer = () => {
 
         <div className="text-center">
           <p className="font-heading text-xs tracking-[0.15em] uppercase text-muted-foreground">
-            © 2024 Yeti the monk. All rights reserved. Crafted with ❤️ and tradition.
+            © 2026 Yeti the monk. All rights reserved. Crafted with ❤️ and tradition.
           </p>
         </div>
       </div>
