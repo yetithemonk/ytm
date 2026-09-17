@@ -10,6 +10,7 @@ import nila from "@/assets/nila.jpeg";
 import sambal from "@/assets/Sambalpur.png";
 import tanka from "@/assets/tankapani.jpeg";
 import barabati from "@/assets/cuttack.png";
+import sum from "@/assets/sum.png";
 import soon from "@/assets/soon.png";
 import { TrendingUp, Users, Store, Award, Shield, Clock, Quote, Instagram, Twitter, Youtube, Loader2 } from "lucide-react";
 
@@ -150,13 +151,21 @@ const franchiseOwners = [
   
   {
     name: "Mining Road, Keonjhar",
-    owner: "Mr. Debraj Saha",
+    owner: "Yeti The Monk",
     role: "Yeti The Monk on Wheels",
     desc: "Our first franchise beyond the capital city and the first-ever Tibetan food truck in Keonjhar, serving authentic flavors at the heart of the town.",
-    image: keon,
-    instagram: "https://www.instagram.com/d__e__v__.21?igsh=MWJyYmZ2dzBzczB2bg==",
+    image: soon,
+    instagram: "undefined",
   },
 
+    {
+    name: "Kalinga Nagar, BBSR",
+    owner: "Mr Nihit Mishra",
+    role: "Yeti The Monk QSR",
+    desc: "Another Zone Captured in Bhubaneswar, Our newest franchise outlet is ready to serve authentic Tibetan cuisine, a flavours of the Himalayas to yet another community.",
+    image: sum,
+    instagram: "https://www.instagram.com/the_visual_sage",
+  },
  
   { name: "Rourkela", owner: "Coming soon", role: "Yeti The Monk", desc: "Coming soon", image: soon, instagram: undefined },
   
