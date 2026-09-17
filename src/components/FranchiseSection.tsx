@@ -10,7 +10,7 @@ import nila from "@/assets/nila.jpeg";
 import sambal from "@/assets/Sambalpur.png";
 import tanka from "@/assets/tankapani.jpeg";
 import barabati from "@/assets/cuttack.png";
-import sum from "@/assets/sum.png";
+import sum from "@/assets/sum.jpeg";
 import soon from "@/assets/soon.png";
 import { TrendingUp, Users, Store, Award, Shield, Clock, Quote, Instagram, Twitter, Youtube, Loader2 } from "lucide-react";
 
